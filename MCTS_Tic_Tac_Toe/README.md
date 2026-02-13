@@ -1,4 +1,4 @@
-# 🧠 Tic-Tac-Toe with MCTS + Neural Network
+# ✨ Tic-Tac-Toe with MCTS + Neural Network
 
 **This assignment was done with guidance from [Shadi Akbari](https://github.com/ShadiAkbari).**
 
@@ -23,7 +23,7 @@ The AI learns to play Tic-Tac-Toe without hard-coded rules. It has two component
 
 ---
 
-## 🌳 How MCTS Works
+## 💡 How MCTS Works
 
 Each move is selected via repeated simulations:
 
@@ -83,12 +83,7 @@ AI improves via repeated self-play:
 - **Human vs AI:** `play_vs_ai.py`  
 
 **Human vs AI example:**
-- Board is printed as a 9-element array:  
-
-0 | 1 | 2
-3 | 4 | 5
-6 | 7 | 8
-
+- Board is printed as a 9-element array,
 - Enter your move index when prompted.  
 - AI responds automatically using the trained model.
 
@@ -105,10 +100,5 @@ AI improves via repeated self-play:
 - `play_vs_ai.py` → Human vs AI  
 - `game.py` & `tree.py` → frozen game logic  
 - `checkpoints/model.pth` → trained model  
-- `README.md` → this file  
 
 ---
-
-## 🔗 Acknowledgments
-
-Thanks to [Shadi Akbari](https://github.com/ShadiAkbari) for guidance and support.
