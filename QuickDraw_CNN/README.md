@@ -1,7 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/bcdhbKBR)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21932881&assignment_repo_type=AssignmentRepo)
-# Assignment 7 — Convolutional Neural Networks for Image Classification
-
 ## Overview
 
 In this assignment, you will train a **Convolutional Neural Network (CNN)** using **PyTorch** on a subset of the QuickDraw dataset. You will be provided with a folder structured as follows:
@@ -117,41 +113,3 @@ Plots must be generated inside your notebook and then inserted into the PDF.
 report.pdf
 ```
 
----
-
-## What to Do
-
-All coding work must be completed inside:
-
-```
-src/QuickDraw_CNN.ipynb
-```
-
-## Submission Rules
-
-Your final submission must contain:
-
-```
-src/
-    QuickDraw_CNN.ipynb
-    model.pth
-report.pdf
-```
-
-Rules:
-
-* Push all files to the default branch before the deadline
-* Do **not** rename directories or the notebook
-* Your notebook must run start-to-finish without manual edits
-* All plots must be automatically generated
-* `model.pth` must load and run correctly with your evaluation code
-
----
-
-## Collaboration & Integrity
-
-* This is an **individual assignment**
-* Cite any external code, papers, or tutorials used
-* You may discuss high-level ideas only
-* All implementation must be your own
-* Follow all academic integrity standards strictly
